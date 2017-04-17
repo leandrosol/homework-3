@@ -1,0 +1,106 @@
+html, body {
+  width: 620px;
+  margin: auto;
+}
+
+.shapka img {
+  margin-top: 20px;
+}
+
+.header {
+  color: #243756;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-top: 10px;
+  float: left;
+}
+
+.block-right {
+  color: #4b4a45;
+  text-transform: uppercase;
+  font-size: 18px;
+  float: right;
+  margin-top: 10px;
+}
+
+.block-main {
+  background-color: #445878;
+  color: white;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.big {
+  font-size: 32px;
+  color: white;
+}
+
+.text {
+  font-size: 18px;
+  color: white;
+}
+
+.blue {
+ text-transform: uppercase;
+ font-size: 14px;
+ font-weight: bold;
+ background-color: #243756;
+ padding: 18px 27px 16px;
+ color: white;
+ border: none;
+ width: 140px;
+}
+
+.yellow {
+  width: 220px;
+  background-color: #87c442;
+  margin-top: 20px;
+  height: 220px;
+}
+
+.smile {
+  float: right;
+  margin-top: 20px;
+}
+
+.yellow {
+  float: left;
+}
+
+.big1 {
+  font-size: 22px;
+  color: white;
+  padding-left: 15px;
+}
+
+.text1 {
+  font-size: 14px;
+  color: white;
+  padding: 0px 10px 0px 15px;
+}
+
+.para {
+  margin-top: 20px;
+  float: left;
+}
+
+.green {
+ text-transform: uppercase;
+ font-size: 14px;
+ font-weight: bold;
+ background-color: #558a19;
+ padding: 18px 27px 16px;
+ color: white;
+ border: none;
+ width: 140px;
+}
+
+.social img {
+ display: inline-block;
+ margin-right: 14px;
+}
+
+.social {
+  float: left;
+  margin-top: 20px;
+}
